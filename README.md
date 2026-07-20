@@ -8,9 +8,8 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/devachandanachinnu"><img src="https://img.shields.io/github/followers/devachandanachinnu?label=Followers&style=flat-square&color=7aa5ff&labelColor=1a1b26" alt="GitHub Followers"></a>
     <a href="mailto:devachandanachinnu@gmail.com"><img src="https://img.shields.io/badge/Email-devachandanachinnu%40gmail.com-7aa5ff?style=flat-square&logo=gmail&logoColor=1a1b26" alt="Email"></a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-Connect-7aa5ff?style=flat-square&logo=linkedin&logoColor=1a1b26" alt="LinkedIn"></a>
+    <a href="https://linkedin.com/in/chandana-deva"><img src="https://img.shields.io/badge/LinkedIn-Connect-7aa5ff?style=flat-square&logo=linkedin&logoColor=1a1b26" alt="LinkedIn"></a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=devachandanachinnu&color=7aa5ff&style=flat-square" alt="Visitor Counter" />
@@ -115,24 +114,6 @@ I am an engineering-driven **Full Stack Developer** specializing in the MERN sta
 *   🏅 **Infosys Certified MERN Stack Trainee** (2025–2026 Enterprise Validation)
 *   👔 **Salesforce Developer Intern** — SmartInternz (2022 Ecosystem Development)
 *   📊 Master of Computer Applications Graduate with a **cumulative CGPA of 8.26 / 10**
-
----
-
-## 📈 GitHub Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devachandanachinnu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devachandanachinnu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devachandanachinnu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</div>
-
-<div align="center">
-  <h3>✨ Contribution Snake Graph</h3>
-  <img src="https://raw.githubusercontent.com/devachandanachinnu/devachandanachinnu/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
 
 ---
 
